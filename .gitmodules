@@ -1,0 +1,6 @@
+[submodule "Project"]
+	path = Project
+	url = https://github.com/leomeza1/STM32PRJ.git
+[submodule "Library"]
+	path = Library
+	url = https://github.com/leomeza1/STM32LIB.git
