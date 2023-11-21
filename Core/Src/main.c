@@ -89,7 +89,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  ProjectLoop(STM32PRJ_HELLO_PUSH_BUTTON);
+  ProjectLoop(STM32PRJ_HELLO_LATCHED_BUTTON);
   //while (1)
   //{
     /* USER CODE END WHILE */
